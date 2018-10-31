@@ -1,2 +1,2 @@
 <strong>Contact Manager</strong><br>
-https://imervinc.github.io/contactmanager
+https://imervinc.github.io/contact-manager
